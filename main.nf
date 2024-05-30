@@ -1,8 +1,5 @@
 #!/usr/bin/env nextflow
 
-// Using DSL-2
-nextflow.enable.dsl=2
-
 // All of the default parameters are being set in `nextflow.config`
 
 // Import the process
